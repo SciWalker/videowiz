@@ -1,0 +1,5 @@
+bucket_name: "s3-dev-ekyc-data-warehouse"
+s3_file_path: "vocal-language-converter/data/raw/"
+transcriber: "whisper"
+tgt_language: "english"  #Amzaon --> en-US | Whisper --> english
+data_path: "data/raw/audio/yue4.mp3"
